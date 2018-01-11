@@ -37,4 +37,4 @@ plot_pop('ind_pop_data.csv', 'CEB')
 
 
 # Call plot_pop for country code 'ARB'
-plot_pop('ind_pop_data.csv', 'ARB')
+# plot_pop('ind_pop_data.csv', 'ARB')
