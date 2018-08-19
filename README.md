@@ -1,1 +1,1 @@
-# springboard_dsct
+This repository contains work done as part of the Springboard Data Science Course which aimed to build an beginner level competency in the field of Machine Learning and Data Science through the exercises, mini-projects, and two capstone projects.
