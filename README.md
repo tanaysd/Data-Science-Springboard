@@ -1,2 +1,3 @@
 1. This repository contains work done as part of the [Springboard Data Science Course](https://www.springboard.com/workshops/data-science-career-track/) which aimed to build beginner level competency in the field of Machine Learning and Data Science through stand-alone exercises, mini-projects, and two capstone projects.
 2. [Capstone-1-Project-Report](https://cdn.rawgit.com/tanaysd/Data-Science-Springboard/8964315c/Capstone_1/Capstone_I_Project_Report.html)
+3. [Capstone-2-Project-Report](https://cdn.rawgit.com/tanaysd/Data-Science-Springboard/82863d30/Capstone_2/Capstone_II_V3_Project_Report.html)
